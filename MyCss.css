@@ -87,7 +87,7 @@
             #value1 {
                 border-radius: 50%;
                 background: linear-gradient(to left, #000046, #1cb5e0);
-                background-image: url(../IMG/42.png);
+                background-image: url(42.png);
                 background-size: 150px;
                 width: 150px;
                 height: 150px;
@@ -97,7 +97,7 @@
                 position: absolute;
                 border-radius: 50%;
                 background: linear-gradient(to left, #000046, #1cb5e0);
-                background-image: url(../IMG/42.png);
+                background-image: url(42.png);
                 background-size: 80px;
                 width: 80px;
                 height: 80px;
@@ -118,7 +118,7 @@
                 position: fixed;
                 border-radius: 50%;
                 background: linear-gradient(to left, #000046, #1cb5e0);
-                background-image: url(../IMG/ExitDoor.gif);
+                background-image: url(ExitDoor.gif);
                 background-size: 100px;
                 background-position: center;
                 width: 80px;
@@ -129,7 +129,7 @@
             #value2 {
                 border-radius: 50%;
                 background: linear-gradient(to left, #000046, #1cb5e0);
-                background-image: url(../IMG/fb.jpg);
+                background-image: url(fb.jpg);
                 background-size: 40px;
                 width: 40px;
                 height: 40px;
@@ -137,7 +137,7 @@
             #value3 {
                 border-radius: 50%;
                 background: linear-gradient(to left, #000046, #1cb5e0);
-                background-image: url(../IMG/LinkedIn.jpg);
+                background-image: url(LinkedIn.jpg);
                 background-size: 60px;
                 background-position: center;
                 width: 40px;
@@ -146,7 +146,7 @@
             #value4 {
                 border-radius: 50%;
                 background: linear-gradient(to left, #000046, #1cb5e0);
-                background-image: url(../IMG/WA.png);
+                background-image: url(WA.png);
                 background-size: 40px;
                 width: 40px;
                 height: 40px;
