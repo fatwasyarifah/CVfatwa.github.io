@@ -309,4 +309,14 @@
                     margin-left: 80%;
                     margin-top: 70%;
                 }
+                .kontak {
+                    margin-left: -50px;
+                }
+                .kontak table {
+                    width: 350px;
+                }
+                .kontak td {
+                    /*border:1px solid red;*/
+                    width: 100%;
+                }
             }
